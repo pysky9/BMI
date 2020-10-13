@@ -5,7 +5,7 @@ print("你的BMI為 {} ".format(BMI))
 if BMI < 18.5 :
 	print("你的體重過輕")
 elif BMI < 24 :
-	print("你的BMI標準")
+	print("你的體重標準")
 elif BMI < 27 :
 	print("你的體重過重")
 elif BMI < 30 :
